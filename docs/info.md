@@ -13,7 +13,7 @@ se diseño un numero binario de 4 entradas 7 salidas
 
 ## How to test
 
-Explain how to use your project
+A 7-segment display is needed.
 
 ## External hardware
 
